@@ -1,0 +1,4 @@
+Hello World! I am Hardhik Shetty, I am about to build a File Management System!
+I am gonna do using C language. Its very simple program though but at the same time very important to 
+improve programming skills. 1 2 3 4 5. I am shocked to see that this program can also print 1.3, 123, 1.222, 
+2/3, 1*3, everything.
